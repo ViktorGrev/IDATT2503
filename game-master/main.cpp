@@ -20,7 +20,6 @@
 #include <iostream>
 
 extern "C" {
-// Implementation is in glut_shapes.c
 void glutSolidCube(GLdouble size);
 }
 
