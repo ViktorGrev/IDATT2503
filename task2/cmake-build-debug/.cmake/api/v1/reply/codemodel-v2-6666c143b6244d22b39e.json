@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "main1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main1-Debug-d1e0db4374603fe68da8.json",
+					"name" : "main1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main2-Debug-127030967b8ec8304f3b.json",
+					"name" : "main2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main3-Debug-8e32b765eb3def6f44fd.json",
+					"name" : "main3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main4-Debug-64d37638db2852ee6b63.json",
+					"name" : "main4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main5-Debug-b7180ff411c8d4df51bc.json",
+					"name" : "main5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main6-Debug-95fd5292350337924741.json",
+					"name" : "main6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/CodeProjects/Cpp/task2/cmake-build-debug",
+		"source" : "C:/CodeProjects/Cpp/task2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,4 @@
+C:/CodeProjects/Cpp/task1/cmake-build-debug/CMakeFiles/a.dir
+C:/CodeProjects/Cpp/task1/cmake-build-debug/CMakeFiles/b.dir
+C:/CodeProjects/Cpp/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeProjects/Cpp/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

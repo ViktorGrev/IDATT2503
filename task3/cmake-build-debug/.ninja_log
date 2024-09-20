@@ -1,0 +1,18 @@
+# ninja log v6
+11	467	7468107277621545	CMakeFiles/task3.dir/oppg3/main3.cpp.obj	6978df1098737013
+74	1040	7457605195518114	CMakeFiles/task3.dir/oppg3/oppg3.cpp.obj	4bffdeed0d514e47
+18	446	7457606939429105	CMakeFiles/task3.dir/main.cpp.obj	9cb0bfc82b55c555
+18	500	7456955456339363	CMakeFiles/task3.dir/oppg3.cpp.obj	30fe776099ac86ea
+78	1062	7457605195558242	CMakeFiles/task3.dir/oppg3/Commodity.cpp.obj	2fdb3f946feb08ad
+13	463	7468107351873323	CMakeFiles/main1.dir/main.cpp.obj	fb2617b8cb4e55c
+21	420	7468118395910756	CMakeFiles/main1.dir/main1&2.cpp.obj	d29163ae18f75ae1
+19	426	7457620143205411	CMakeFiles/task3.dir/oppg4.cpp.obj	b28a04464d26bca4
+464	573	7468107356374114	main1.exe	5c9e669361772c4d
+15	459	7468107615451814	CMakeFiles/main3.dir/oppg3/main3.cpp.obj	fed8388cffbea2b1
+12	342	7468108027632651	CMakeFiles/main3.dir/oppg3/Commodity.cpp.obj	32cef02bbdd2ea33
+342	454	7468108030938901	main3.exe	c31cf1b856b952ce
+2	270	7468118890030066	build.ninja	ea97f058c6938316
+13	378	7468118937779107	CMakeFiles/main1and2.dir/main1and2.cpp.obj	f535e3f5333bca52
+378	495	7468118941435986	main1and2.exe	944db2dae6a90193
+12	398	7468119936463483	CMakeFiles/main4.dir/main4.cpp.obj	4b1049f56cf0ca13
+398	523	7468119940319522	main4.exe	2a1207badf1c4820

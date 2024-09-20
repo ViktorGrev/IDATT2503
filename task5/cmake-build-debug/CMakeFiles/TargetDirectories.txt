@@ -1,0 +1,3 @@
+C:/CodeProjects/Cpp/task5/cmake-build-debug/CMakeFiles/task5.dir
+C:/CodeProjects/Cpp/task5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeProjects/Cpp/task5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

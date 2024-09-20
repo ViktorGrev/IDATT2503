@@ -1,0 +1,4 @@
+C:/CodeProjects/Cpp/task4/cmake-build-debug/CMakeFiles/main1.dir
+C:/CodeProjects/Cpp/task4/cmake-build-debug/CMakeFiles/MyGtkmmApp.dir
+C:/CodeProjects/Cpp/task4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeProjects/Cpp/task4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main1.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main2.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main3.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main4.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main5.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/main6.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CodeProjects/Cpp/task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
